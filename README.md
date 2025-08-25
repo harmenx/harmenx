@@ -38,7 +38,7 @@ PostgreSQL, DynamoDB, MongoDB, Redis, CosmosDB
 ### 🎮 Games & Apps
 - **Financial Literacy Games** (MoneyMappa) – Cross-platform mobile games & apps to teach financial literacy.  
 - **Nucleus Go** – Mobile investment portfolio manager (React Native).  
-- **Tourism Apps** (NZTA) – Built and optimized public tourism mobile apps used nationwide.  
+- **BK Apps** (RBI) – Built and optimized public hospitality mobile apps used across multiple countries.  
 
 ### 🔒 Systems & Platforms
 - **Payment Pipelines** – High-throughput card payment system (Node.js, AWS, DynamoDB).  
@@ -59,6 +59,7 @@ PostgreSQL, DynamoDB, MongoDB, Redis, CosmosDB
 
 ## 🏅 Certifications & Awards
 
+- AWS Certified Developer – **Professional** (2025)  
 - AWS Certified Solutions Architect – **Professional** (2023)  
 - AWS Certified Solutions Architect – **Associate** (2021)  
 - NZTA Hackathon – **First Place Winner** (2018)  
