@@ -1,74 +1,77 @@
 # 👋 Hi, I’m Harm
 
-🚀 Technical Lead · AI Engineer · Cloud Architect  
+🚀 **Cloud Architect · Technical Lead · AI Engineer**
 
-I’m a Cloud & AI Engineering Lead with 12+ years of experience in **full-stack architecture, scalable cloud infrastructure, and intelligent systems**.  
-I’ve delivered high-impact solutions for **startups, enterprise, and government** across the U.K. and New Zealand, with a focus on **AWS, LLMs, and automation**.  
+I’m a Cloud & AI Engineering Lead with 12+ years of experience building **scalable, high-performance systems** across startups, enterprise, and government in the U.K. and New Zealand.  
 
-Currently, I’m exploring **generative AI + cloud-native architecture** to bring real business value through automation, apps, and scalable systems.
+I specialize in **AWS cloud-native architecture, LLM-powered applications, and automation pipelines** that deliver measurable business impact. Currently exploring **generative AI + cloud-native platforms** to create scalable systems, apps, and automated workflows.
 
 ---
 
-## 🔧 Skills & Tools
+## 🔧 Core Skills & Tools
 
 **Cloud & DevOps**  
-AWS (EC2, Lambda, S3, CloudFormation, API Gateway), Kubernetes, Docker, Terraform, Jenkins, GitHub Actions  
+AWS (EC2, Lambda, S3, CloudFormation, API Gateway), Kubernetes, Docker, Terraform, Jenkins, GitHub Actions – multi-region, fault-tolerant, scalable infrastructure.
 
 **AI & Data**  
-Python, Pandas, Hugging Face, LangChain, PyTorch, TensorFlow, OpenAI API, AWS Sagemaker  
+Python, Pandas, PyTorch, TensorFlow, Hugging Face, LangChain, OpenAI API, AWS SageMaker – LLM pipelines, AI inference, predictive automation.
 
 **Backend & APIs**  
-Node.js, Express, Flask, Django, gRPC, GraphQL, SpringBoot, Kafka  
+Node.js, Express, Flask, Django, SpringBoot, gRPC, GraphQL, Kafka – high-throughput, distributed microservices.
 
 **Frontend & UX**  
-React, Next.js, Vue, TypeScript, Redux, WebGL  
+React, Next.js, Vue, TypeScript, Redux, WebGL – high-performance, user-focused interfaces.
 
-**Databases**  
-PostgreSQL, DynamoDB, MongoDB, Redis, CosmosDB  
+**Databases & Storage**  
+PostgreSQL, DynamoDB, MongoDB, Redis, CosmosDB – distributed, fault-tolerant data systems.
+
+**Security & Compliance**  
+Auth0, AWS security best practices, GDPR, AML/KYC integration.
 
 ---
 
 ## 📌 Featured Projects
 
-### ☁️ Cloud & AI
-- **[Krunch.ai](#)** – Delivered a customizable Web3 digital asset marketplace with Next.js + React.  
-- **AI Quiz & Game Apps** – Building **20+ hyper-casual games** and **20+ quiz apps** powered by AI content.  
-- **Cloud Dev Starter Kit** – Improved microservice onboarding with a monolithic DB, reducing setup time from days to hours.  
+### ☁️ AI & Cloud Systems
+- **[Krunch.ai](#)** – Cloud-native, Web3 digital asset marketplace (Next.js + React), modular and scalable for multiple clients.
+- **AI Quiz & Game Apps** – 20+ hyper-casual games & 20+ AI-driven quiz apps with automated content pipelines.
+- **Cloud Dev Starter Kit** – Streamlined onboarding for microservices with monolithic DB, cutting setup time from **days → hours**.
 
-### 🎮 Games & Apps
-- **Financial Literacy Games** (MoneyMappa) – Cross-platform mobile games & apps to teach financial literacy.  
-- **Nucleus Go** – Mobile investment portfolio manager (React Native).  
-- **BK Apps** (RBI) – Built and optimized public hospitality mobile apps used across multiple countries.  
+### 🎮 Games & Applications
+- **Financial Literacy Games (MoneyMappa)** – Cross-platform apps teaching financial literacy.
+- **Nucleus Go** – Mobile portfolio manager (React Native) with multi-brand support.
+- **RBI Hospitality Apps** – Optimized mobile apps deployed across multiple countries.
 
 ### 🔒 Systems & Platforms
-- **Payment Pipelines** – High-throughput card payment system (Node.js, AWS, DynamoDB).  
-- **FDC3 Dashboards** (Archax) – Engineered compliant dashboards for digital asset exchange.  
-- **Govt. Customer Portal** – Served 5,000+ customers & 500 staff, NPS ~70 (NZTE).  
+- **Payment Pipelines** – High-throughput, secure card payment system (Node.js, AWS, DynamoDB).
+- **FDC3 Dashboards (Archax)** – Compliant digital asset dashboards with AML/KYC integration.
+- **Govt. Customer Portal (NZTE)** – Served 5,000+ customers & 500 staff with NPS ~70.
 
 ---
 
 ## 🏢 Career Snapshot
 
-- **Senior Software Engineer (Amazon, London)** → Rebuilt core marketplace UIs & APIs using AWS + Spring Boot.  
-- **Technical Lead (Machina Consulting, London)** → Shipped SaaS platforms, microservices, and payments systems at scale.  
-- **Senior SWE (Archax, London)** → Built digital asset dashboards aligned with AML/KYC.  
-- **Technical Lead (NZTE, Auckland)** → Delivered a government customer portal reaching thousands.  
-- **SWE (Propellerhead, DeRef, NZTA, Solution Mgmt, MoneyMappa)** → Multiple projects spanning mobile apps, APIs, DevOps, and financial tools.  
+- **Senior SWE – Amazon, London** → Rebuilt marketplace UIs & APIs, deploying scalable AWS + Spring Boot solutions.
+- **Technical Lead – Machina Consulting, London** → Shipped SaaS platforms, microservices, and payments systems at scale.
+- **Senior SWE – Archax, London** → Built AI-ready dashboards for regulated digital asset exchange.
+- **Technical Lead – NZTE, Auckland** → Delivered large-scale government portal for thousands of users.
+- **Software Engineer – Propellerhead, DeRef, NZTA, Solution Management, MoneyMappa** → Full-stack, DevOps, and AI-integrated solutions across multiple domains.
 
 ---
 
 ## 🏅 Certifications & Awards
 
-- AWS Certified Developer – **Professional** (2025)  
-- AWS Certified Solutions Architect – **Professional** (2023)  
-- AWS Certified Solutions Architect – **Associate** (2021)  
-- NZTA Hackathon – **First Place Winner** (2018)  
+- **AWS Certified Solutions Architect – Professional** (2023)
+- **AWS Certified Developer – Professional** (2025)
+- **AWS Certified Solutions Architect – Associate** (2021)
+- **NZTA Hackathon – 1st Place** (2018)
 
 ---
 
 ## 📫 Connect with Me
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-333?style=flat&logo=linkedin)](https://www.linkedin.com/in/harmdark)  
-[![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github)](https://github.com/harmenx)  
+[![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github)](https://github.com/harmenx)
 
 ---
 
