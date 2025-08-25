@@ -66,13 +66,6 @@ PostgreSQL, DynamoDB, MongoDB, Redis, CosmosDB
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harmenx&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harmenx&layout=compact&theme=radical)
-
----
-
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-333?style=flat&logo=linkedin)](https://www.linkedin.com/in/harmdark)  
 [![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github)](https://github.com/harmenx)  
