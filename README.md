@@ -2,7 +2,7 @@
 
 🚀 **Cloud Architect · Technical Lead · AI Engineer**
 
-I’m a Cloud & AI Engineering Lead with 12+ years of experience building **scalable, high-performance systems** across startups, enterprise, and government in the U.K. and New Zealand.  
+I’m a Cloud & AI Engineering Lead with 12+ years of experience building **scalable, high-performance systems** across startups, enterprise, and government in the U.K. and New Zealand. I've founded three companies - Machina Hero, Machina Consulting and Joker Seven.
 
 I specialize in **AWS cloud-native architecture, LLM-powered applications, and automation pipelines** that deliver measurable business impact. Currently exploring **generative AI + cloud-native platforms** to create scalable systems, apps, and automated workflows.
 
