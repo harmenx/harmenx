@@ -11,11 +11,11 @@ I hold **six AWS certifications**, including ML Engineer Associate and Solutions
 ## 🔧 Core Skills
 
 **AI & LLM:** Amazon Bedrock, LangChain, LangGraph, RAG pipelines, vector databases, agentic workflows, SageMaker Pipelines
-**Languages:** Python, TypeScript, JavaScript, Java, C#
-**Frontend:** React, Next.js, React Native, micro-frontends, SSR, WCAG 2.1 AA
-**Backend & Data:** Node.js, .NET Core, Kafka, GraphQL, PostgreSQL, Redis, DynamoDB, Snowflake
-**Cloud & DevOps:** AWS (Lambda, S3, SQS, API Gateway, VPC), Docker, Kubernetes, Terraform, CI/CD
-**Observability:** New Relic, Datadog, SLOs
+- **Languages:** Python, TypeScript, JavaScript, Java, C#
+- **Frontend:** React, Next.js, React Native, micro-frontends, SSR, WCAG 2.1 AA
+- **Backend & Data:** Node.js, .NET Core, Kafka, GraphQL, PostgreSQL, Redis, DynamoDB, Snowflake
+- **Cloud & DevOps:** AWS (Lambda, S3, SQS, API Gateway, VPC), Docker, Kubernetes, Terraform, CI/CD
+- **Observability:** New Relic, Datadog, SLOs
 
 ---
 
